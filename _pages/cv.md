@@ -100,8 +100,7 @@ redirect_from:
 ---
 
 ## Service and Leadership
-* **Cofounder and Editor-In-Chief**, Pittsburgh Interdisciplinary Mathematics Review, 2023–2024  
-* Active participant in interdisciplinary math outreach and journal promotion.  
+* **Cofounder and Editor-In-Chief**, Pittsburgh Interdisciplinary Mathematics Review, 2023–2024    
 
 
 <!--- Education
