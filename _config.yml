@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.png"
   name             : "Neil MacLachlan"
   pronouns         : "he/him"  
   bio              : "I am a National Science Foundation Graduate Research Fellow and PhD student in Applied and Interdisciplinary Mathematics at the University of Michigan. My research explores computational neuroscience, with a focus on mathematical modeling and large-scale brain simulations."
