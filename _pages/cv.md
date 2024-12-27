@@ -9,7 +9,86 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+# Neil C. MacLachlan
+
+**Email:** ncmaclachlan@gmail.com  
+**Website:** [Personal Website](https://ncmaclachlan.github.io)  
+**LinkedIn:** [LinkedIn Profile](#)  
+
+---
+
+## Education
+* **Ph.D. in Applied and Interdisciplinary Mathematics**  
+  University of Michigan, Ann Arbor  
+  GPA: 4.0  
+  *July 2024 – Present*
+
+* **B.S. in Mathematics (Honors), Minor in Statistics**  
+  University of Pittsburgh, Summa Cum Laude  
+  *July 2021 – May 2024*
+
+* **A.S. in Mathematics and Physical Sciences**  
+  Community College of Allegheny County, Highest Honors  
+  *August 2016 – August 2020*
+
+---
+
+## Work Experience
+* **Graduate Student Instructor**  
+  University of Michigan  
+  *August 2024 – December 2024*  
+  - Taught Calculus 1 using an inquiry-based learning approach.
+  - Designed quizzes, worksheets, and visual aids to enhance student engagement.
+  - Fostered a positive and inclusive classroom environment.
+
+* **Editor-In-Chief**  
+  *Pittsburgh Interdisciplinary Mathematics Review*  
+  *January 2023 – December 2024*  
+  - Cofounded and managed an interdisciplinary mathematics journal archived by the Library of Congress.  
+  - Coordinated editorial processes and secured funding and institutional support.  
+
+---
+
+## Research Experience
+* **Electrophysiology and Fluid Flows in the Brain**  
+  University of Michigan, Department of Mathematics  
+  *October 2024 – Present*  
+  - Developed large-scale simulations of mouse brain activity using C++ and CUDA.  
+  - Applied sparse numerical linear algebra and finite difference calculus to optimize computations.  
+  - Designed algorithms to construct detailed mouse connectomes.  
+
+* **Spatiotemporal Patterns in Neuronal Networks**  
+  University of Pittsburgh, TECBio NSF REU  
+  *May 2023 – October 2024*  
+  - Modeled spatiotemporal spiral wave phenomena in neuronal networks.  
+  - Conducted phase plane and bifurcation analyses using XPPAUT.  
+  - Created simulation tools and visualizations in MATLAB.  
+
+---
+
+## Skills
+* Programming: MATLAB (advanced), LaTeX (advanced), Python (intermediate), R (intermediate), C++ (beginner), CUDA (beginner)  
+* Mathematics: Sparse Numerical Linear Algebra, Dynamical Systems, Partial Differential Equations, Network Theory  
+* Statistical Modeling: Linear Regression, Logistic Regression, Random Forests, PCA, Cross-Validation  
+
+---
+
+## Publications
+- N. C. MacLachlan and G. B. Ermentrout. *Analysis and Simulation of Spatiotemporal Spiral Waves in Neuronal Networks.* Joint Mathematics Meeting, San Francisco, CA, 2024.  
+- N. C. MacLachlan and L. Song. *An Interview with Professor Piotr Hajłasz.* Pittsburgh Interdisciplinary Mathematics Review, Vol. 2, 2024.  
+
+---
+
+## Teaching
+* Calculus 1, Graduate Student Instructor, University of Michigan, 2024  
+
+---
+
+## Service and Leadership
+* Cofounder and Editor-In-Chief, Pittsburgh Interdisciplinary Mathematics Review, 2023–2024  
+* Active participant in interdisciplinary math outreach and journal promotion.  
+
+<!--- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -62,3 +141,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
