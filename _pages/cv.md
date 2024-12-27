@@ -8,12 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 # Neil C. MacLachlan
-
-**Email:** ncmaclachlan@gmail.com  
-**Website:** [Personal Website](https://ncmaclachlan.github.io)  
-**LinkedIn:** [LinkedIn Profile](#)  
 
 ---
 
@@ -37,8 +32,8 @@ redirect_from:
 * **Graduate Student Instructor**  
   University of Michigan  
   *August 2024 – December 2024*  
-  - Taught Calculus 1 using an inquiry-based learning approach.
-  - Designed quizzes, worksheets, and visual aids to enhance student engagement.
+  - Taught Calculus 1 using an inquiry-based learning approach.  
+  - Designed quizzes, worksheets, and visual aids to enhance student engagement.  
   - Fostered a positive and inclusive classroom environment.
 
 * **Editor-In-Chief**  
@@ -49,7 +44,7 @@ redirect_from:
 
 ---
 
-## Research Experience
+## Research Projects
 * **Electrophysiology and Fluid Flows in the Brain**  
   University of Michigan, Department of Mathematics  
   *October 2024 – Present*  
@@ -64,12 +59,32 @@ redirect_from:
   - Conducted phase plane and bifurcation analyses using XPPAUT.  
   - Created simulation tools and visualizations in MATLAB.  
 
+* **Wrong Winding Numbers in the Reinhardt Conjecture**  
+  University of Pittsburgh, Department of Mathematics  
+  *March 2023 – April 2023*  
+  - Explored optimal control problems in the Reinhardt Conjecture.  
+  - Investigated ambiguities in eigenvalue-related phenomena.  
+  - Visualized results using Mathematica.  
+
+* **Quantization of Dispersive Waves**  
+  University of Pittsburgh, Department of Mathematics  
+  *May 2022 – May 2023*  
+  - Studied quantization in higher-dimensional systems.  
+  - Visualized quantized and fractal solutions using Mathematica.  
+
+* **Mood Dynamics in Bipolar Disorder**  
+  North Carolina A&T State University and Elon University, Joint NSF REU  
+  *May 2022 – August 2022*  
+  - Reproduced and analyzed existing models of mood dynamics.  
+  - Solved differential equation systems in MATLAB.  
+  - Delivered research presentations and reports.  
+
 ---
 
 ## Skills
-* Programming: MATLAB (advanced), LaTeX (advanced), Python (intermediate), R (intermediate), C++ (beginner), CUDA (beginner)  
-* Mathematics: Sparse Numerical Linear Algebra, Dynamical Systems, Partial Differential Equations, Network Theory  
-* Statistical Modeling: Linear Regression, Logistic Regression, Random Forests, PCA, Cross-Validation  
+* **Programming:** MATLAB (advanced), LaTeX (advanced), Python (intermediate), R (intermediate), C++ (beginner), CUDA (beginner)  
+* **Mathematics:** Sparse Numerical Linear Algebra, Dynamical Systems, Partial Differential Equations, Network Theory  
+* **Statistical Modeling:** Linear Regression, Logistic Regression, Random Forests, PCA, Cross-Validation  
 
 ---
 
@@ -80,13 +95,14 @@ redirect_from:
 ---
 
 ## Teaching
-* Calculus 1, Graduate Student Instructor, University of Michigan, 2024  
+* **Calculus 1**, Graduate Student Instructor, University of Michigan, 2024  
 
 ---
 
 ## Service and Leadership
-* Cofounder and Editor-In-Chief, Pittsburgh Interdisciplinary Mathematics Review, 2023–2024  
+* **Cofounder and Editor-In-Chief**, Pittsburgh Interdisciplinary Mathematics Review, 2023–2024  
 * Active participant in interdisciplinary math outreach and journal promotion.  
+
 
 <!--- Education
 ======
